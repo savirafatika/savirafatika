@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Savira Fatika</h1>
 <h3 align="center">Web Developer | Web Designer | Learner</h3>
 
-- 🌱 I’m currently learning **laravel, react**
+- 🌱 I’m currently learning: **laravel, react**
 
-- 💬 Ask me about **PHP, MySQL, responsive web design**
+- 💬 Ask me about: **PHP, MySQL, responsive web design**
 
-- 📫 How to reach me **savira.fatika.sf@gmail.com**
+- 📫 How to reach me: **savira.fatika.sf@gmail.com**
 
-- 📄 Know about my experiences [http://threefour.me/](http://threefour.me/)
+- 📄 Know about my experiences: [http://threefour.me/](http://threefour.me/)
 
-- ⚡ Fun fact **I sing and record my voice for myself &#128522;**
+- ⚡ Fun fact: **I sing and record my voice for myself &#128522;**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
