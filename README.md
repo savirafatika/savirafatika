@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Savira Fatika</h1>
 <h3 align="center">Web Developer | Web Designer | Learner</h3>
 
-- 🌱 I’m currently learning: **laravel, react**
+- 🌱 I’m currently learning: **laravel, Adobe XD**
 
 - 💬 Ask me about: **PHP, MySQL, responsive web design**
 
