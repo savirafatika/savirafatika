@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: **laravel, Adobe XD**
 
-- 💬 Ask me about: **PHP, MySQL, responsive web design**
+- 💬 Ask me about: **PHP, DBMS, responsive web design**
 
 - 📫 How to reach me: **savira.fatika.sf@gmail.com**
 
