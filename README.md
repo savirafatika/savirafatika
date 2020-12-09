@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Savira Fatika</h1>
-<h3 align="center">Web Developer | Web Designer | Learner</h3>
+<h3 align="center">Web Developer | Freelancer | Learner</h3>
 
 - 🌱 I’m currently learning: **laravel, Adobe XD**
 
