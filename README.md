@@ -38,5 +38,5 @@
   <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
 
-![savirafatika's github stats](https://github-readme-stats.vercel.app/api?username=savirafatika&show_icons=true&hide_border=true&title_color=000)
+![savirafatika's github stats](https://github-readme-stats.vercel.app/api?username=savirafatika&hide=contribs&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savirafatika&layout=compact&hide_border=true)
