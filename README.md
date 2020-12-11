@@ -40,6 +40,3 @@
 
 ![savirafatika's github stats](https://github-readme-stats.vercel.app/api?username=savirafatika&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savirafatika&layout=compact&hide_border=true)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=savirafatika&show_icons=true&locale=en" alt="savirafatika" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savirafatika&show_icons=true&locale=en&layout=compact" alt="savirafatika" /></p>
