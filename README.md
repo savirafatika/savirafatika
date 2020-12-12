@@ -39,5 +39,5 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png" height="35" /> </a>
 </p>
 
-![savirafatika's github stats](https://github-readme-stats.vercel.app/api?username=savirafatika&hide=prs&show_icons=true&hide_border=true&bg_color="transparent")
+![savirafatika's github stats](https://github-readme-stats.vercel.app/api?username=savirafatika&hide=prs&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savirafatika&layout=compact&hide_border=true)
