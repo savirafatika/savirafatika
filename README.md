@@ -36,6 +36,8 @@
   <a href="https://www.php.net" target="_blank"> <img src="https://lh3.googleusercontent.com/proxy/Cn1i-EVktTMb4uVJa847uEyy9DJBjVRCHbRKJv62vQvtZpOuKq02u6RziBzjl12cdnZ_5RQasOQ_chHQc9U4_w" alt="php" width="auto" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://applover.com/wp-content/uploads/2020/01/iconfinder_React.js_logo_1174949.png" alt="react" width="auto" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank"> <img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="sass" width="auto" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank"> <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="postman" width="auto" height="40"/> </a> 
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png" alt="xd" width="auto" height="40"/> </a>
 </p>
 
 ![savirafatika's github stats](https://github-readme-stats.vercel.app/api?username=savirafatika&hide=prs&show_icons=true&hide_border=true&title_color=000)
