@@ -21,23 +21,22 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="auto" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="javascript" width="auto" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="auto" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank"> <img src="https://lh3.googleusercontent.com/proxy/Cn1i-EVktTMb4uVJa847uEyy9DJBjVRCHbRKJv62vQvtZpOuKq02u6RziBzjl12cdnZ_5RQasOQ_chHQc9U4_w" alt="php" width="auto" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" alt="mysql" width="auto" height="40"/> </a>  
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://materializecss.com/" target="_blank"> <img src="https://www.nicepng.com/png/full/169-1696332_materialize-logo-materialize-css-logo.png" alt="materialize" width="auto" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="sass" width="auto" height="40"/> </a> 
-  <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/codeigniter-4-1175201.png" alt="codeigniter" width="40" height="40"/> </a> 
-  <a href="https://laravel.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="auto" height="40"/> </a>  
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://applover.com/wp-content/uploads/2020/01/iconfinder_React.js_logo_1174949.png" alt="react" width="auto" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank"> <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="postman" width="auto" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="auto" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://i.pinimg.com/originals/e5/35/6c/e5356c9766b49e62e80a631f821611dd.png" alt="illustrator" width="auto" height="40"/> </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png" alt="xd" width="auto" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" /> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" /> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" /> </a> 
+  <a href="https://www.php.net" target="_blank"> <img src="https://lh3.googleusercontent.com/proxy/Cn1i-EVktTMb4uVJa847uEyy9DJBjVRCHbRKJv62vQvtZpOuKq02u6RziBzjl12cdnZ_5RQasOQ_chHQc9U4_w" /> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" /> </a>  
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4" /> </a> 
+  <a href="https://materializecss.com/" target="_blank"> <img src="https://www.nicepng.com/png/full/169-1696332_materialize-logo-materialize-css-logo.png" /> </a> 
+  <a href="https://sass-lang.com" target="_blank"> <img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" /> </a> 
+  <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/codeigniter-4-1175201.png" /> </a> 
+  <a href="https://laravel.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" /> </a>  
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://applover.com/wp-content/uploads/2020/01/iconfinder_React.js_logo_1174949.png" /> </a> 
+  <a href="https://postman.com" target="_blank"> <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" /> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" /> </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://i.pinimg.com/originals/e5/35/6c/e5356c9766b49e62e80a631f821611dd.png" /> </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png" /> </a>
 </p>
 
 ![savirafatika's github stats](https://github-readme-stats.vercel.app/api?username=savirafatika&hide=prs&show_icons=true&hide_border=true&title_color=000)
