@@ -30,10 +30,10 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://i.pinimg.com/originals/e5/35/6c/e5356c9766b49e62e80a631f821611dd.png" alt="illustrator" width="auto" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="javascript" width="auto" height="40"/> </a> 
   <a href="https://laravel.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="auto" height="40"/> </a> 
-  <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://materializecss.com/" target="_blank"> <img src="https://www.nicepng.com/png/full/169-1696332_materialize-logo-materialize-css-logo.png" alt="materialize" width="auto" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="auto" height="40"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="auto" height="40"/> </a> 
+  <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="auto" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
