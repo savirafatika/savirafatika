@@ -23,7 +23,7 @@
 <p align="left"> 
   
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> 
+  <a href="https://codeigniter.com" target="_blank"> <img src="https://digitalbrain.co.in/wp-content/uploads/2018/01/CI-icons.png" alt="codeigniter" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
