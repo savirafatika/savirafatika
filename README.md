@@ -9,8 +9,6 @@
 
 - 📄 Know about my experiences: [http://threefour.me/](http://threefour.me/)
 
-- ⚡ Fun fact: **I sing and record my voice for myself &#128522;**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/savirafatika" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="savirafatika" height="30" width="40" /></a>
