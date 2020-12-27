@@ -25,7 +25,7 @@
   <a href="https://www.php.net" target="_blank"> <img src="https://www.php.net/images/logos/new-php-logo.svg" height="30" /></a> 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" height="30"  /></a>  
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4" height="35" /></a> 
-  <a href="https://materializecss.com/" target="_blank"> <img src="https://www.nicepng.com/png/full/169-1696332_materialize-logo-materialize-css-logo.png" height="30" /> </a> 
+  <a href="https://materializecss.com/" target="_blank"> <img src="https://www.nicepng.com/png/full/169-1696332_materialize-logo-materialize-css-logo.png" height="30" /></a> 
   <a href="https://sass-lang.com" target="_blank"> <img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" height="35" /></a> 
   <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/codeigniter-4-1175201.png" height="35" /></a> 
   <a href="https://laravel.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="35" /></a>  
