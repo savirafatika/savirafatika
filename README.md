@@ -29,7 +29,7 @@
   <a href="https://sass-lang.com" target="_blank"> <img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" height="35" /></a> 
   <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/codeigniter-4-1175201.png" height="35" /></a> 
   <a href="https://laravel.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="35" /></a>  
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://applover.com/wp-content/uploads/2020/01/iconfinder_React.js_logo_1174949.png" height="35" /></a> 
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="35" /></a> 
   <a href="https://postman.com" target="_blank"> <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" height="35" /> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="35" /></a> 
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" height="35" /></a>
