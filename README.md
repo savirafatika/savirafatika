@@ -28,8 +28,8 @@
   <a href="https://materializecss.com/" target="_blank"> <img src="https://www.nicepng.com/png/full/169-1696332_materialize-logo-materialize-css-logo.png" height="30" /></a> 
   <a href="https://sass-lang.com" target="_blank"> <img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" height="35" /></a> 
   <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/codeigniter-4-1175201.png" height="35" /></a> 
-  <a href="https://laravel.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="35" /></a>  
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://camo.githubusercontent.com/22045498095171997ccf6a9554672519b9f67898/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656163742e737667" height="35" /></a> 
+  <a href="https://laravel.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="35" /></a>  
+  <a href="https://reactjs.org/" target="_blank"><img src="https://camo.githubusercontent.com/22045498095171997ccf6a9554672519b9f67898/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656163742e737667" height="35" /></a> 
   <a href="https://postman.com" target="_blank"> <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" height="35" /> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="35" /></a> 
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" height="35" /></a>
