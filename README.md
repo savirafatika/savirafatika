@@ -28,7 +28,7 @@
   <a href="https://codeigniter.com" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/codeigniter-4-1175201.png" height="35" /></a> 
   <a href="https://laravel.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="35" /></a>  
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="35" /></a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png" height="35" /></a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png" height="35"/></a>
 </p>
 
 ![savirafatika's github stats](https://github-readme-stats.vercel.app/api?username=savirafatika&hide=prs&show_icons=true&hide_border=true)
