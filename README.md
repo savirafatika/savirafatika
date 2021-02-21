@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **savira.fatika.sf@gmail.com**
 
-- 📄 Know about my experiences: [http://threefour.me/](http://threefour.me/)
+- 📄 Know about my experiences: https://savira-portfolio.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
