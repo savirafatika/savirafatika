@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Savira Fatika</h1>
-<h3 align="center">Web Developer | Freelancer | Learner</h3>
+<h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning: **MERN, Laravel**
+- 🌱 I’m currently learning: **Laravel, Product Management**
 
-- 💬 Ask me about: **PHP, DBMS, responsive web design**
+- 💬 Ask me about: **CI, DBMS, responsive web design**
 
 - 📫 How to reach me: **savira.fatika.sf@gmail.com**
 
